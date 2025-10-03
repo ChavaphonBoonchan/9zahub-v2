@@ -4,7 +4,7 @@ import { ExternalLink, FolderOpen } from 'lucide-react'
 
 // 🧩 Add your projects here
 export const PROJECTS = [
-  { name: 'My Portfolio', url: 'https://folio.9zahub.com' },
+  { name: 'My Classroom website', url: 'https://smt.9zahub.com' },
   { name: 'release soon', url: 'https://www.google.com' },
 ]
 

@@ -5,7 +5,7 @@ import { Link, Phone } from 'lucide-react'
 // 🔗 Add your contact links here
 export const CONTACTS = [
   { name: 'Instagram', url: 'https://www.instagram.com/superninelol' },
-  { name: 'GitHub', url: 'https://github.com/ChavaphonBoonchan/9zahub-landing' },
+  { name: 'GitHub', url: 'https://github.com/ChavaphonBoonchan' },
   { name: 'LINE', url: 'https://line.me/R/ti/p/@chavaphonboonchan123' },
   { name: 'Discord', url: 'https://discord.com/users/845990662720585728' },
 ]
