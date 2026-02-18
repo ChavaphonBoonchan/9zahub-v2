@@ -7,7 +7,7 @@ export const CONTACTS = [
   { name: 'Instagram', url: 'https://www.instagram.com/superninelol' },
   { name: 'GitHub', url: 'https://github.com/ChavaphonBoonchan' },
   { name: 'LINE', url: 'https://line.me/R/ti/p/@chavaphonboonchan123' },
-  { name: 'Discord', url: 'https://discord.com/users/845990662720585728' },
+  
 ]
 
 export default function ContactMenu() {
